@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="comment" value="# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++&#10;#                       $title$   &#10;# --------------------------------------------------------------------------&#10;$END$" description="comment block" toReformat="true" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

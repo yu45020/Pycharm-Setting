@@ -1,0 +1,103 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="63343" />
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\ProgramData\Anaconda3\python.exe" value="true" />
+        <entry key="C:\Users\hkuang\AppData\Local\Continuum\anaconda3\python.exe" value="true" />
+        <entry key="D:\Program Files\Python 3\python.exe" value="true" />
+        <entry key="D:\Program Files\Python 3\python3.exe" value="true" />
+        <entry key="D:\Program Files\Python Anaconda3\python.exe" value="true" />
+        <entry key="D:\Program Files\Python27\python.exe" value="false" />
+        <entry key="D:\Program Files\Python27\python2.exe" value="false" />
+        <entry key="D:\Program Files\Python2\python.exe" value="true" />
+        <entry key="D:\Program Files\anaconda\python.exe" value="true" />
+        <entry key="D:\ProgramData\Black-Box\Aigis\Widget Box\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\Black-Box\Aigis\WidgetBox\venv1\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\Black-Box\Aigis\WidgetBox\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\Python35\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\Word_Embedding\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\decode webfile1\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\python.exe" value="true" />
+        <entry key="D:\ProgramData\anaconda3\text_detect\Scripts\python.exe" value="true" />
+        <entry key="D:\ProgramData\anaconda3\ven3.6\Scripts\python.exe" value="false" />
+        <entry key="sftp://fatfish2006@35.185.232.58:22/home/fatfish2006/programs/anaconda3/bin/python3.6" value="true" />
+        <entry key="sftp://fatfish2006@35.199.149.217:22/usr/bin/python" value="false" />
+        <entry key="sftp://fatfish2006@35.203.172.37:22/home/fatfish2006/programs/anaconda3/bin/python3.6" value="true" />
+        <entry key="sftp://fatfish2006@35.233.210.8:22/home/fatfish2006/programs/anaconda3/bin/python" value="true" />
+        <entry key="sftp://fatfish2006@35.233.210.8:22/usr/bin/python" value="false" />
+        <entry key="sftp://shaoling1964@35.185.195.181:22/home/shaoling1964/anaconda3/bin/python" value="true" />
+        <entry key="ssh://fatfish2006@35.185.232.58:22/home/fatfish2006/programs/anaconda3/bin/python" value="true" />
+        <entry key="ssh://fatfish2006@35.233.210.8:22/home/fatfish2006/programs/anaconda3/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\ProgramData\Anaconda3\python.exe" value="true" />
+        <entry key="C:\Users\hkuang\AppData\Local\Continuum\anaconda3\python.exe" value="true" />
+        <entry key="D:\Program Files\Python 3\python.exe" value="false" />
+        <entry key="D:\Program Files\Python 3\python3.exe" value="false" />
+        <entry key="D:\Program Files\Python Anaconda3\python.exe" value="true" />
+        <entry key="D:\Program Files\Python27\python.exe" value="false" />
+        <entry key="D:\Program Files\Python27\python2.exe" value="false" />
+        <entry key="D:\Program Files\Python2\python.exe" value="true" />
+        <entry key="D:\Program Files\anaconda\python.exe" value="true" />
+        <entry key="D:\ProgramData\Black-Box\Aigis\Widget Box\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\Black-Box\Aigis\WidgetBox\venv1\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\Black-Box\Aigis\WidgetBox\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\Python35\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\Word_Embedding\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\decode webfile1\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\python.exe" value="true" />
+        <entry key="D:\ProgramData\anaconda3\text_detect\Scripts\python.exe" value="true" />
+        <entry key="D:\ProgramData\anaconda3\ven3.6\Scripts\python.exe" value="false" />
+        <entry key="sftp://fatfish2006@35.185.232.58:22/home/fatfish2006/programs/anaconda3/bin/python3.6" value="true" />
+        <entry key="sftp://fatfish2006@35.199.149.217:22/usr/bin/python" value="false" />
+        <entry key="sftp://fatfish2006@35.203.172.37:22/home/fatfish2006/programs/anaconda3/bin/python3.6" value="true" />
+        <entry key="sftp://fatfish2006@35.233.210.8:22/home/fatfish2006/programs/anaconda3/bin/python" value="true" />
+        <entry key="sftp://fatfish2006@35.233.210.8:22/usr/bin/python" value="false" />
+        <entry key="sftp://shaoling1964@35.185.195.181:22/home/shaoling1964/anaconda3/bin/python" value="true" />
+        <entry key="ssh://fatfish2006@35.185.232.58:22/home/fatfish2006/programs/anaconda3/bin/python" value="true" />
+        <entry key="ssh://fatfish2006@35.233.210.8:22/home/fatfish2006/programs/anaconda3/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\ProgramData\Anaconda3\python.exe" value="true" />
+        <entry key="C:\Users\hkuang\AppData\Local\Continuum\anaconda3\python.exe" value="true" />
+        <entry key="D:\ProgramData\Black-Box\Aigis\Widget Box\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\Black-Box\Aigis\WidgetBox\venv1\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\Black-Box\Aigis\WidgetBox\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\Python35\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\Word_Embedding\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\decode webfile1\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\python.exe" value="true" />
+        <entry key="D:\ProgramData\anaconda3\text_detect\Scripts\python.exe" value="false" />
+        <entry key="D:\ProgramData\anaconda3\ven3.6\Scripts\python.exe" value="false" />
+        <entry key="sftp://fatfish2006@35.185.232.58:22/home/fatfish2006/programs/anaconda3/bin/python3.6" value="false" />
+        <entry key="sftp://fatfish2006@35.199.149.217:22/usr/bin/python" value="false" />
+        <entry key="sftp://fatfish2006@35.203.172.37:22/home/fatfish2006/programs/anaconda3/bin/python3.6" value="false" />
+        <entry key="sftp://fatfish2006@35.233.210.8:22/home/fatfish2006/programs/anaconda3/bin/python" value="false" />
+        <entry key="sftp://fatfish2006@35.233.210.8:22/usr/bin/python" value="false" />
+        <entry key="sftp://shaoling1964@35.185.195.181:22/home/shaoling1964/anaconda3/bin/python" value="false" />
+        <entry key="ssh://fatfish2006@35.185.232.58:22/home/fatfish2006/programs/anaconda3/bin/python" value="false" />
+        <entry key="ssh://fatfish2006@35.233.210.8:22/home/fatfish2006/programs/anaconda3/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

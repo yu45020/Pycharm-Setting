@@ -1,0 +1,9 @@
+<templateSet group="Python">
+  <template name="comment" value="# +++++++++++++++++++++++++++++++++++++&#10;#           $title$      &#10;# -------------------------------------&#10;$end$" description="add comment" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
