@@ -6,6 +6,7 @@
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="ReadME" type="Markdown" />
       <mapping pattern="pattern" type="PLAIN_TEXT" />
+      <mapping pattern="hanlp_new_dict" type="PLAIN_TEXT" />
       <mapping pattern="README.md" type="PLAIN_TEXT" />
       <mapping pattern="d" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
